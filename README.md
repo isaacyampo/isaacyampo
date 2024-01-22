@@ -19,7 +19,7 @@ Here are some of the projects I'm currently working on:
 
 ### 📚 Learning Journey
 
-    Currently pursuing AWS Solutions Architect - Associate certification.
+    Currently working on the above projects to practice and grow my skillset.
     Exploring other cloud platforms such as Microsoft Azure and Google Cloud.
     Actively participating in online courses, workshops, and tech communities to expand my knowledge.
 
